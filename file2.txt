@@ -1,1 +1,1 @@
-file 2 changed at local repository.
+file 2 matter of conflict was resolved
